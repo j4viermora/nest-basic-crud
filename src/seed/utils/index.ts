@@ -1,0 +1,1 @@
+export { generateFakeListCar } from './generateFakeListCars'
